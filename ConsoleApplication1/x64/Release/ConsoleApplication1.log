@@ -1,0 +1,39 @@
+﻿  PayLoad.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\optional(11): warning STL4038: The contents of <optional> are available only with C++17 or later.
+C:\Users\_YBY\source\repos\ConsoleApplication1\ConsoleApplication1\PayLoad.cpp(39,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\_YBY\source\repos\ConsoleApplication1\ConsoleApplication1\PayLoad.cpp(52,22): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\_YBY\source\repos\ConsoleApplication1\ConsoleApplication1\PayLoad.cpp(54,6): warning C4996: 'access': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _access. See online help for details.
+C:\Users\_YBY\source\repos\ConsoleApplication1\ConsoleApplication1\PayLoad.cpp(60,7): warning C4996: 'access': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _access. See online help for details.
+C:\Users\_YBY\source\repos\ConsoleApplication1\ConsoleApplication1\PayLoad.cpp(61,19): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\_YBY\source\repos\ConsoleApplication1\ConsoleApplication1\PayLoad.cpp(65,18): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\_YBY\source\repos\ConsoleApplication1\ConsoleApplication1\PayLoad.cpp(71,7): warning C4996: 'access': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _access. See online help for details.
+  ServiceMain.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\optional(11): warning STL4038: The contents of <optional> are available only with C++17 or later.
+C:\Users\_YBY\source\repos\ConsoleApplication1\ConsoleApplication1\ServiceMain.cpp(50,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\_YBY\source\repos\ConsoleApplication1\ConsoleApplication1\ServiceMain.cpp(52,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\_YBY\source\repos\ConsoleApplication1\ConsoleApplication1\ServiceMain.cpp(56,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\_YBY\source\repos\ConsoleApplication1\ConsoleApplication1\ServiceMain.cpp(60,10): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\_YBY\source\repos\ConsoleApplication1\ConsoleApplication1\ServiceMain.cpp(85,20): warning C4477: “fwprintf_s”: 格式字符串“%S”需要类型“char *”的参数，但可变参数 1 拥有了类型“const _Elem *”
+C:\Users\_YBY\source\repos\ConsoleApplication1\ConsoleApplication1\ServiceMain.cpp(85,20): warning C4477:         with
+C:\Users\_YBY\source\repos\ConsoleApplication1\ConsoleApplication1\ServiceMain.cpp(85,20): warning C4477:         [
+C:\Users\_YBY\source\repos\ConsoleApplication1\ConsoleApplication1\ServiceMain.cpp(85,20): warning C4477:             _Elem=wchar_t
+C:\Users\_YBY\source\repos\ConsoleApplication1\ConsoleApplication1\ServiceMain.cpp(85,20): warning C4477:         ]
+  C:\Users\_YBY\source\repos\ConsoleApplication1\ConsoleApplication1\ServiceMain.cpp(85,20):
+  请考虑在格式字符串中使用“%lS”
+  C:\Users\_YBY\source\repos\ConsoleApplication1\ConsoleApplication1\ServiceMain.cpp(85,20):
+  请考虑在格式字符串中使用“%llS”
+  C:\Users\_YBY\source\repos\ConsoleApplication1\ConsoleApplication1\ServiceMain.cpp(85,20):
+  请考虑在格式字符串中使用“%LS”
+  C:\Users\_YBY\source\repos\ConsoleApplication1\ConsoleApplication1\ServiceMain.cpp(85,20):
+  请考虑在格式字符串中使用“%wS”
+  
+C:\Users\_YBY\source\repos\ConsoleApplication1\ConsoleApplication1\ServiceMain.cpp(73,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\_YBY\source\repos\ConsoleApplication1\ConsoleApplication1\ServiceMain.cpp(77,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\_YBY\source\repos\ConsoleApplication1\ConsoleApplication1\ServiceMain.cpp(81,10): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  正在生成代码
+C:\Users\_YBY\source\repos\ConsoleApplication1\ConsoleApplication1\PayLoad.cpp(88): warning C4700: 使用了未初始化的局部变量“hTokenN”
+  87 of 157 functions (55.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    15 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  ConsoleApplication1.vcxproj -> C:\Users\_YBY\source\repos\ConsoleApplication1\x64\Release\PuddleBooter.exe
